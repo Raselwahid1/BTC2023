@@ -1,0 +1,57 @@
+<suite> name= "suite1">
+<test>
+	
+	<packages>
+<classes>
+	//<class name= "com.SmokeTest">
+		//<methods>
+			//<include name = "test1">
+				
+				
+		//	</include>
+			
+			
+			
+		//</methods>
+		
+		
+		
+		
+		
+
+	
+	
+//</class>
+		
+//</classes>
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+</packages>
+		
+	
+</test>	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+	
+	
+	
+	
+	
+</suite>

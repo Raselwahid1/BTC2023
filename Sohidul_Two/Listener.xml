@@ -1,0 +1,16 @@
+<suite>
+	<listeners>
+		<listener class-name="db.BaseTest"></listener>
+		
+	</listeners>
+	<test>
+		<packages>
+			<package name ="com"></package>
+			
+			
+		</packages>
+		
+	</test>
+	
+	
+</suite>

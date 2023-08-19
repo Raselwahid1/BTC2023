@@ -1,0 +1,20 @@
+<suite name= "parametertry">
+	
+	<test name = "pTest1">
+		<parameter name = "browsers" value ="chrome"></parameter>
+		<classes>
+		
+		<class name= "com.ParallelTest">
+			
+			
+		</class>
+		
+		</classes>
+		
+		
+	</test>
+	
+	
+	
+	
+</suite>

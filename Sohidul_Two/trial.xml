@@ -1,0 +1,52 @@
+<suite>
+	
+	<test>
+		<groups>
+			<run>
+				<include   name= "Smoke">
+					
+					
+					
+					
+					
+					
+				</include>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</run>
+			
+			
+			
+			
+			
+			
+			
+			
+		</groups>
+		
+		
+		
+		
+		
+		
+		
+	</test>
+	
+	
+	
+	
+	
+	
+	
+</suite>

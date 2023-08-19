@@ -1,0 +1,38 @@
+<suite name= "what" parallel= "Tests">
+	<test  name ="Parallel_one">
+		
+		<classes>
+			<class name = "com.ParallelTest">
+				
+	</class>
+			
+</classes>
+		
+	</test>
+	
+	<test name ="paralell_2">
+		<classes>
+			<class>
+				
+				
+			</class>
+			
+			
+			
+		</classes>
+		
+		
+	</test>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</suite>
