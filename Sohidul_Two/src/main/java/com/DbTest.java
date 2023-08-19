@@ -19,8 +19,10 @@ public class DbTest {
 	
 	public void zipcodes () {
 		int jamaica = 11432;
-		
+		int floral = 11001;
 	}
+	
+	
 		
 	
 	
